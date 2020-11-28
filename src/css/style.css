@@ -1,0 +1,11 @@
+body ,button{
+   
+    box-sizing: content-box;
+    justify-content: center;
+    text-align: center;
+    border: none;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    padding: 10px;
+}
